@@ -1,7 +1,6 @@
 name: wxread
 
 on:
-  schedule:
   workflow_dispatch:  # 手动触发
 
 jobs:
